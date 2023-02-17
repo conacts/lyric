@@ -1,6 +1,9 @@
-<img style="text-align: center;" src="./assets/head.jpeg" width="20%">
-
 # lyric
+
+<div style="text-align: center;>
+<img src="./assets/head.jpeg" width="30%">
+</div>
+                                         
 This is an implementation of a natural language processing (NLP) algorithm that uses Drake lyrics as its training data. The purpose of this algorithm is to generate new, original lyrics that are in the style of Drake.
 
 #### Data Collection
