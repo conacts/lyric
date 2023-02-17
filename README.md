@@ -1,4 +1,4 @@
-![Lyric](./assets/head.jpeg|300)
+<img src="./assets/demo.gif" width="60%">
 
 # lyric
 This is an implementation of a natural language processing (NLP) algorithm that uses Drake lyrics as its training data. The purpose of this algorithm is to generate new, original lyrics that are in the style of Drake.
