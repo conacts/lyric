@@ -1,6 +1,6 @@
 # lyric
 
-<div style="text-align: center;>
+<div style="text-align: center;">
 <img src="./assets/head.jpeg" width="30%">
 </div>
                                          
