@@ -5,7 +5,7 @@
 # Lyric
 This is a GPT style implementation trained to output original Drake lyrics.                                          
 
-#### Data Collection
+## Data Collection
 The training data for this algorithm consists of lyrics from Drake's songs, which were obtained through using the web scraping library Selenium. The data was pre-processed to remove any extraneous information and ensure that only the lyrics remained.
 
 ## Model Architecture
