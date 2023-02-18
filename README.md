@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/head2.jpeg" width="30%">
+    <img src="./assets/head.jpeg" width="30%">
 </p>
 
 # Lyric
