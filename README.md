@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-<img src="./assets/head.jpeg" width="30%">
-</div>
+<p align="center">
+    <img src="./assets/head.jpeg" width="30%">
+</p>
 
 # lyric
                                          
