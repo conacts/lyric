@@ -34,5 +34,5 @@ m.load_state_dict(torch.load(weights, map_location=torch.device(device)))
 # create a PyTorch optimizer
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 
-context = torch.zeros((1, 1), dtype=torch.long, device=device)
+context = torch.zeros((1, 10), dtype=torch.long, device=device)
 print(decode(m.generate(context, max_new_tokens=output_length)[0].tolist()))

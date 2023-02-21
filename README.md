@@ -14,6 +14,12 @@ Lyric is based on a Transformer. The model is trained on the collected lyrics da
 ## Evaluation and Deployment
 The performance of the algorithm can be evaluated using metrics such as accuracy and perplexity. Once the model has been trained and evaluated, it can be deployed for use by music artists and songwriters who are looking to generate new lyrics in the style of Drake. The algorithm can be run in real-time, providing users with instant results.
 
+##### Web Interface
+<p align="center">
+    <img src="./assets/gradio-demo.gif">
+</p>
+
+##### Command Line Interface
 <p align="center">
     <img src="./assets/demo.gif">
 </p>
