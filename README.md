@@ -16,7 +16,7 @@ The performance of the algorithm can be evaluated using metrics such as accuracy
 
 ##### Web Interface
 <p align="center">
-    <img src="./assets/gradio-demo.gif">
+    <img src="./assets/gradio-demo.png">
 </p>
 
 ##### Command Line Interface
